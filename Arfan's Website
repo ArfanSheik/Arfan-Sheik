@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arfan Sheik - Talent Acquisition Specialist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            background: #555;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            padding: 0.5rem 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 2rem 0;
+        }
+        .section {
+            margin-bottom: 2rem;
+            background: #fff;
+            padding: 1.5rem;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .section h2 {
+            margin-top: 0;
+            color: #333;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: 2rem;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Arfan Sheik</h1>
+        <p>Talent Acquisition Specialist | Dubai, UAE</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#experience">Experience</a>
+        <a href="#skills">Skills</a>
+        <a href="#education">Education</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="container">
+        <section id="about" class="section">
+            <h2>Professional Summary</h2>
+            <p>Accomplished Talent Acquisition Specialist with over a decade of experience across legal, real estate, IT, and telecom sectors. Expertise in end-to-end recruitment, employee onboarding, and developing talent acquisition strategies. Adept at building talent pipelines, fostering client relationships, and aligning hiring practices with organizational goals to drive growth and secure top-tier talent.</p>
+        </section>
+
+        <section id="experience" class="section">
+            <h2>Experience</h2>
+            <h3>Disruptive Focus | Dubai</h3>
+            <p><strong>Recruitment Consultant</strong> (07/2023 – Current)</p>
+
+            <h3>Maha Bin Hendi Law Firm | Dubai</h3>
+            <p><strong>Human Resources Officer / Recruiter</strong> (01/2022 – 07/2023)</p>
+            <ul>
+                <li>Led the recruitment team specializing in law firm placements.</li>
+                <li>Developed and implemented recruitment strategies tailored to the legal industry.</li>
+                <li>Ensured compliance with UAE labor laws.</li>
+                <li>Drafted employee policies, contracts, and engagement models.</li>
+            </ul>
+
+            <h3>Century 21 - Real Estate | Dubai</h3>
+            <p><strong>Talent Acquisition</strong> (06/2018 – 12/2021)</p>
+            <ul>
+                <li>Devised recruitment strategies, posted job ads, and sourced candidates.</li>
+                <li>Conducted interviews, coordinated onboarding, and maintained compliance records.</li>
+            </ul>
+
+            <h3>Al Safar & Partners | Dubai</h3>
+            <p><strong>HR/Recruitment Manager</strong> (05/2012 – 12/2021)</p>
+            <ul>
+                <li>Recruited for diverse legal roles, including Paralegals and Senior Associates.</li>
+                <li>Developed and maintained a skilled legal talent database.</li>
+                <li>Ensured adherence to legal and ethical hiring standards.</li>
+            </ul>
+        </section>
+
+        <section id="skills" class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>Strong interpersonal and communication skills.</li>
+                <li>Proficiency in applicant tracking systems and HR software.</li>
+                <li>Familiarity with social media and professional networks for recruitment.</li>
+                <li>Excellent organizational skills and attention to detail.</li>
+            </ul>
+        </section>
+
+        <section id="education" class="section">
+            <h2>Education</h2>
+            <p><strong>Mangalore University, SDM College of Business Management | Mangalore, India</strong></p>
+            <p>Bachelor’s Degree in Human Resource Development – June 2010</p>
+        </section>
+
+        <section id="contact" class="section">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:arfansheikh36@live.in">arfansheikh36@live.in</a></p>
+            <p>Phone: +971 529605548 / +971 581245754</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/arfan-sheik-bb59b13a">View Profile</a></p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Arfan Sheik. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
